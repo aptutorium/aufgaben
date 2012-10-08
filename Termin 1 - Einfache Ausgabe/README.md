@@ -1,6 +1,6 @@
 # Termin 1 - Einfache Ausgabe
 
-## In Vorlesung vorgestellte Programme:
+## Im Tutorium vorgestellte Programme:
 
  * unformatiert.c
  * formatiert.c
