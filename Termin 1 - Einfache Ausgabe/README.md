@@ -9,7 +9,7 @@
 ## Aufgabenstellung
 
 ### Aufgabe 1
-Es soll ein Programm geschreiben werden, welches folgende Ausgabe erzeugt:
+Es soll ein Programm geschrieben werden, welches folgende Ausgabe erzeugt:
 
     Mein Stundenplan für WI 
     ----------------------- 
