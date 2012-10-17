@@ -1,10 +1,10 @@
 # Termin 2
 
 ## Aufgabe 1
-Es soll eine Variable alter angelegt werden, in welcher das eigene Lebensjahr eingetragen wird. Die Variable soll mit Hilfe der Funktion printf ausgegeben werden.
+Es soll eine Variable `alter` angelegt werden, in welcher das eigene Lebensjahr eingetragen wird. Die Variable soll mit Hilfe der Funktion `printf` ausgegeben werden.
 
 ## Aufgabe 2
-Der Quellcode von Aufgabe 1 soll so ergänzt werden, dass das Alter mit Hilfe der Funktion scanf eingelesen und in die entsprechende Variable gespeichert wird. Die Ausgabe bleibt unverändert.
+Der Quellcode von Aufgabe 1 soll so ergänzt werden, dass das Alter mit Hilfe der Funktion `scanf` eingelesen und in die entsprechende Variable gespeichert wird. Die Ausgabe bleibt unverändert.
 
 ## Aufgabe 3
 Nun soll zusätzlich zur bestehenden Ausgabe geprüft werden, ob bereits das 18 Lebensjahr erreicht wurde. Zudem ist zu begründen, welcher Datentyp sich für diese Aufgabe eignet. Könnten auch andere Datentypen diese Aufgabe erfüllen?
@@ -14,7 +14,7 @@ Ist das 18 Lebensjah noch nicht erreicht, so sollen die verbleibenden Jahre bis 
 
 ## Zusatzaufgabe
 
-Es soll ein C-Programm entwickelt werden, welches nach der Jahreszinsformel das Endkapital aus dem eingegebenen Startkapital und Zinssatz berechnet. Bei der Ausgabe sollen lediglich zwei Nachkommastellen dargestellt werden!
+Es soll ein C-Programm entwickelt werden, welches nach der Jahreszinsformel das `Endkapital` aus dem eingegebenen `Startkapital` und `Zinssatz` berechnet. Bei der Ausgabe sollen lediglich zwei Nachkommastellen dargestellt werden!
 
 Folgende Formel steht zur Verfügung:
 
