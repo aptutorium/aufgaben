@@ -1,4 +1,4 @@
-# Termin 2 - Einfache Ausgabe
+# Termin 2
 
 ## Aufgabe 1
 Es soll eine Variable alter angelegt werden, in welcher das eigene Lebensjahr eingetragen wird. Die Variable soll mit Hilfe der Funktion printf ausgegeben werden.
