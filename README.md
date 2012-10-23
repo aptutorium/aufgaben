@@ -1,4 +1,5 @@
 # Aufgaben des AP-Tutoriums WS12/13
 
  * Termin 1 - Einfache Ausgabe
- * Termin 2 - Variablen und Kontrollstrukturen
+ * Termin 2 - Variablen und Ein-/Ausgabe
+ * Termin 3 - Kontrollstrukturen
