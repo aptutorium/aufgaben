@@ -1,7 +1,7 @@
 # Termin 4
 
 ## Aufgabe 1 - Mittelwert berechnen
-Schreiben Sie ein C-Programm, das die `Summe` und den `Mittelwert von 10 Zahlen berechnet. Die Werte sollen hintereinander mit Hilfe einer Schleife eingegeben werden.
+Schreiben Sie ein C-Programm, das die `Summe` und den `Mittelwert` von 10 Zahlen berechnet. Die Werte sollen hintereinander mit Hilfe einer Schleife eingegeben werden.
 
 1. Die Aufgabe ist zunächst mit einer For-Schleife zu lösen.
 2. Wie muss der Quellcode abgeändert werden, wenn eine While-Schleife genutzt wird?
