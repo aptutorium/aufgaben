@@ -1,26 +1,23 @@
 #include <stdio.h>
 
-int main(int argc, char const *argv[])
+int main(void)
 {
 	unsigned int val;
-	int fak = 1, i;
+	int fakultaet = 1, i;
 
 	printf("Bitte geben Sie eine Zahl ein: ");
 	scanf("%u", &val);
 
-	for (i = 1; i <= val; ++i)
+	for (i = 1; i <= val; i++)
 	{
 		printf("%d", i);
-		if(i != val) {
-			printf(" * ");
-		} 
-		else {
-			printf(" = ");
-		}
-		fak *= i;
+
+		i != val ? printf(" * ") : printf(" = ");
+
+		fakultaet *= i;
 	}
 
-	printf("%d\n", fak);
-	
+	printf("%d\n", fakultaet);
+
 	return 0;
 }
