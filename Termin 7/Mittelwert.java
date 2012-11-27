@@ -4,10 +4,10 @@ class Mittelwert {
 
   public static void main(String[] args)
   {
-    int i=0, j;
+    int i = 0, j;
     double summe = 0;
     double mittelwert = 0;
-    double werte[] = new double[6];
+    double[] werte = new double[6];
     Scanner input = new Scanner(System.in);
 
     System.out.printf("Bitte geben Sie eine Folge von Zahlen ein: \n");
