@@ -1,0 +1,12 @@
+# Termin 8
+## Flächenberechnung
+Schreiben sie ein C-Programm, welches die Fläche für die Formen `Kreis`, `Rechteck` und `Quadrat` berechnet. Alle Rechnungen sollen innerhalb separater `Funktionen` ausgelagert und im Hauptprogramm aufgerufen werden.
+
+__Ausgabe:__
+
+    Für welches Objekt soll die Fläche ausgerechnet werden?
+    1: Quadrat, 2: Rechteck, 3: Kreis
+
+    Bitte ersten Operand eingeben: 10
+    Bitte zweiten Operand eingeben: 20
+    Die Fläche eines Rechtecks ist 200.00
