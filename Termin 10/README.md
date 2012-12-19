@@ -8,7 +8,7 @@ __Vorgegebener Programmcode:__
 
     int countchar(char word[]);
     void print(char word[], int size);
-    void reverseprint(char word[], int size);
+    void reverse(char word[], int size);
 
     int main()
     {
