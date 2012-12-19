@@ -58,3 +58,6 @@ __Vorgegebener Programmcode:__
 
         return 0;
     }
+a) Es soll ein Programm geschrieben werden, welches 5 ganze Zahlen einliest und diese anschließend unsortiert und sortiert ausgibt. Formulieren Sie dazu die 3 oben genannten Funktionen aus.
+
+b) Warum haben die 2 Funktionen einlesen(...) und sortieren(...) keinen Rückgabewert, obwohl das übergebene Array geändert wird?
