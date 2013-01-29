@@ -10,3 +10,5 @@
  * Termin 08 - Funktionen
  * Termin 09 - Zeiger
  * Termin 10 - Zeichenketten
+ * Termin 11 - OOP in Java
+ * Termin 12 - Stack in Java
