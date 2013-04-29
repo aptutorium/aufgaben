@@ -4,7 +4,9 @@
 
 __Aufgabenstellung:__
 
-Im letzten Tutorium wurde eine generische Klasse `Garage` erstellt. In einer Garage konnte __entweder__ ein `Auto` __oder__ ein `Motorrad` geparkt werden. Es war allerdings nicht möglich, eine Garage zu erstellen, in welcher beide Fahrzeugtypen geparkt werden können. Erstellen Sie ein Interface `Verkehrsmittel`, welches folgende Eigenschaften vorgibt:
+Im letzten Tutorium wurde eine generische Klasse `Garage` erstellt. In einer Garage konnte __entweder__ ein `Auto` __oder__ ein `Motorrad` geparkt werden. Es war allerdings nicht möglich, eine Garage zu erstellen, in welcher beide Fahrzeugtypen geparkt werden können. 
+
+Erstellen Sie ein Interface `Verkehrsmittel`, welches folgende Eigenschaften vorgibt:
 
   * starteMotor()
   * stoppeMotor()
