@@ -2,3 +2,4 @@
 
   * Termin 01 - Einführung OOP
   * Termin 02 - Typparameter
+  * Termin 03 - Interfaces und Vererbung
