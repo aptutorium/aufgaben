@@ -30,8 +30,8 @@ public class Main {
 		 */
 		for (Lebewesen aktuellesLebewesen : planetErde) {
 			/*
-			 * ZunŠchst beschreibt sich jedes Lebewesen selbst --> toString()
-			 * Das Alter wird Ÿber getAlter() abgefragt. Das ist mšglich, da jedes
+			 * Zunaechst beschreibt sich jedes Lebewesen selbst --> toString()
+			 * Das Alter wird Ÿber getAlter() abgefragt. Das ist moeglich, da jedes
 			 * Lebewesen (Mensch, Vogel, Hund) diese Methode geerbt hat.
 			 */
 			System.out.println(aktuellesLebewesen + ". Ich bin " + aktuellesLebewesen.getAlter() + " Jahre alt");
