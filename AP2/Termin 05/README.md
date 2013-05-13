@@ -47,11 +47,11 @@ Betrachten Sie folgende Klassenhierarchie und die bereits implementierte Klasse 
     }
 
 __Zusatzaufgabe:__
-Es soll in einem weiteren Schritt dafür gesorgt werden, dass beim Anlegen eines Chirurgs dieser immer im Krankenhaus arbeitet (Instanzvariable `arbeitetImKrankenhaus` auf true setzen)? Bei einem Hausarzt soll dies hingegen dem Konstruktor direkt übergeben werden:
+Es soll in einem weiteren Schritt dafür gesorgt werden, dass beim Anlegen eines Chirurgs dieser immer im Krankenhaus arbeitet (Instanzvariable `arbeitetImKrankenhaus` auf true setzen). Bei einem Hausarzt soll dies hingegen dem Konstruktor direkt übergeben werden:
 
     Chirurg einChirurg = new Chirurg();
     Hausarzt einHausarzt = new Hausarzt(true);
 
-Wie muss demnach der Konstruktor für Chirug und Hausarzt aussehen?
+Wie muss demnach der Konstruktor für Chirug und Hausarzt aussehen? Können Sie hier eventuell `super` verwenden?
 
 
