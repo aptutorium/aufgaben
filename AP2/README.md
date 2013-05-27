@@ -5,3 +5,4 @@
   * Termin 03 - Interfaces
   * Termin 04 - Vererbung
   * Termin 05 - Vererbung + Interfaces
+  * Termin 06 - Comparable und Equals 
