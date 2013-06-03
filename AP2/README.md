@@ -6,3 +6,4 @@
   * Termin 04 - Vererbung
   * Termin 05 - Vererbung + Interfaces
   * Termin 06 - Comparable und Equals 
+  * Termin 07 - Comparator und Einführung in Sortieralgorithmen
