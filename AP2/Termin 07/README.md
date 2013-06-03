@@ -16,8 +16,9 @@ Schreiben Sie eine Klasse StringLengthComparator, die die Schnittstelle Comparat
     >> ["ein", "test", "kurzer"]
 
 ### Aufgabe 2
-Führen Sie die Aufzeichnung der im Tutorium gezeigten Sortieralgorithmen `SelectionSort` und `InsertionSort` fort. Versuchen sie dabei alle notwendigen Schritte (Vergleiche, Variablen, etc.) schriftlich festzuhalen. Es soll zunächst kein Quellcode geschrieben werden!
+Führen Sie die Aufzeichnung der im Tutorium gezeigten Sortieralgorithmen `SelectionSort` und `InsertionSort` fort. Versuchen sie dabei alle notwendigen Schritte (Vergleiche, Variablen, etc.) schriftlich festzuhalten. Es soll zunächst kein Quellcode geschrieben werden!
 
 __Zusatzaufgabe:__
+
 Versuchen Sie eine konkrete Implementierung beider Sortieralgorithmen zu schreiben.
 
