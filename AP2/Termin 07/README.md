@@ -6,9 +6,9 @@
 Schreiben Sie eine Klasse StringLengthComparator, die die Schnittstelle Comparator implementiert und für sich festlegt, dass ein längerer String als größer als ein kürzerer String betrachtet wird.
 
     ArrayList<String> meinSatz = new ArrayList<String>();
-    meinSatz.add("ein")
-    meinSatz.add("kurzer")
-    meinSatz.add("test")
+    meinSatz.add("ein");
+    meinSatz.add("kurzer");
+    meinSatz.add("test");
 
     Collections.sort(meinSatz, stringComparator);
     System.out.println(meinSatz);
