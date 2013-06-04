@@ -1,4 +1,4 @@
-# Termin 6
+# Termin 7
 
 ## Comparator und Einführung in Sortieralgorithmen
 
