@@ -14,5 +14,6 @@
 *.exe
 *.out
 
-# PDF Documents
+# PDF & Keynote Documents
+*.key
 *.pdf

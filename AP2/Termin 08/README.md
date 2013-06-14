@@ -10,7 +10,7 @@ Schreiben Sie eine lineare Suche für ein Array mit `PlayingCards`. Das Array is
 Der Rückgabewert der Methode ist der Index der gefundenen Karte im Array. Konnte die Karte nicht gefunden werden, so soll -1 zurückgegeben werden. Welche Laufzeit hat dieser Algorithmus?
 
 ### Aufgabe 2
-Schreiben Sie nun eine Binäre Suche, die für den internen Vergleich der Objekte einen Comparator verwendet. Die Signatur der Methode soll wie Folgt aussehen:
+Schreiben Sie nun eine binäre Suche, die für den internen Vergleich der Objekte einen Comparator verwendet. Die Signatur der Methode soll wie Folgt aussehen:
 
     public static int binarySearch(Object[] array, Object key, Comparator cmp) {
       int anfang = ???;
