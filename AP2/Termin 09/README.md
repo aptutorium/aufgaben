@@ -4,13 +4,16 @@
 
 ### Aufgabe 1
 Die bisher gezeigte Implementierung der vergetteten Liste soll um die folgenden Methoden ergänzt werden:
-
+ 
+```java
     public boolean contains(T obj)
     public void addLast(T obj)
     public boolean remove(T obj)
+```
 
 Orientieren Sie sich am Vorgegebenen Klassenkonstrukt `SinglyLinkedList`:
-
+ 
+ ```java
     public class SinglyLinkedList<T> {
     
     private int size = 0;
@@ -26,6 +29,7 @@ Orientieren Sie sich am Vorgegebenen Klassenkonstrukt `SinglyLinkedList`:
     }
       
     Node<T> first = null;
+```
 
 ![](./linked_list.png)
 
