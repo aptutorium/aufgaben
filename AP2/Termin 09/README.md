@@ -3,7 +3,7 @@
 ## Verkettete Liste
 
 ### Aufgabe 1
-Die bisher gezeigte Implementierung der vergetteten Liste soll um die folgenden Methoden ergänzt werden:
+Die bisher gezeigte Implementierung der verketteten Liste soll um die folgenden Methoden ergänzt werden:
  
 ```java
 public boolean contains(T obj)
@@ -11,7 +11,7 @@ public void addLast(T obj)
 public boolean remove(T obj)
 ```
 
-Orientieren Sie sich am Vorgegebenen Klassenkonstrukt `SinglyLinkedList`:
+Orientieren Sie sich an der vorgegebenen Klasse `SinglyLinkedList`:
  
  ```java
 public class SinglyLinkedList<T> {
