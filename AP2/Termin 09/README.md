@@ -1,3 +1,4 @@
+
 # Termin 9
 
 ## Verkettete Liste
@@ -17,6 +18,7 @@ Orientieren Sie sich an der vorgegebenen Klasse `SinglyLinkedList`:
 public class SinglyLinkedList<T> {
 
   private int size = 0;
+  Node<T> first = null;
 
   private static class Node<T> {
     T value;
@@ -27,8 +29,6 @@ public class SinglyLinkedList<T> {
       this.next = next;
     }
   }
-    
-  Node<T> first = null;
 }
 ```
 
