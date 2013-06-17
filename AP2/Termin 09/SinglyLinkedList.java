@@ -3,9 +3,10 @@ package search.util;
 import java.util.NoSuchElementException;
 
 public class SinglyLinkedList<T> {
-	
+
 	private int size = 0;
-	
+	Node<T> first = null;
+
 	private static class Node<T> {
 		private Node(T value, Node<T> next) {
 			this.value = value;
@@ -15,48 +16,46 @@ public class SinglyLinkedList<T> {
 		T value;
 		Node<T> next;
 	}
-		
-	Node<T> first = null;
-	
+
 	public SinglyLinkedList() {
 
 	}
-	
+
 	public boolean isEmpty() {
 		return first == null;
 	}
-	
+
 	public void addFirst(T obj) {
 		first = new Node<T>(obj, first);
 		size++;
 	}
-	
+
 	public T getFirst() {
 		if (first == null)
 			throw new NoSuchElementException();
 		return first.value;
 	}
-	
+
 	public T removeFirst(){
-		if (first == null) 
+		if (first == null)
 			throw new NoSuchElementException();
 		T result = first.value;
 		first = first.next;
 		size--;
 		return result;
 	}
-	
+
 	public boolean contains(T obj) {
 		Node<T> p = first;
 		while(p != null && !eq(obj, p.value))
 			p = p.next;
 		return p != null;
 	}
-	
+
 	private boolean eq(Object a, Object b) {
 		return a == null ? b == null : a.equals(b);
 	}
-	
+
 	public int indexOf(T obj) {
 		Node<T> p = first;
 		int i=0;
@@ -66,10 +65,10 @@ public class SinglyLinkedList<T> {
 		}
 		return p != null ? i : -1;
 	}
-	
+
 	public void addLast(T obj) {
 		Node<T> newNode = new Node<T>(obj, null);
-		if(first == null) 
+		if(first == null)
 			first = newNode;
 		else {
 			Node<T> q = null;
@@ -82,7 +81,7 @@ public class SinglyLinkedList<T> {
 		}
 		size++;
 	}
-	
+
 	public boolean remove(T obj) {
 		Node<T> p = first;
 		Node<T> q = null;
