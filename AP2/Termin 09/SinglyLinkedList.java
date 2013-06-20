@@ -17,10 +17,6 @@ public class SinglyLinkedList<T> {
 		Node<T> next;
 	}
 
-	public SinglyLinkedList() {
-
-	}
-
 	public boolean isEmpty() {
 		return first == null;
 	}
