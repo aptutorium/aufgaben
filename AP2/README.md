@@ -8,3 +8,5 @@
   * Termin 06 - Comparable und Equals 
   * Termin 07 - Comparator und Einführung in Sortieralgorithmen
   * Termin 08 - Sortieralgorithmen
+  * Termin 09 - Verkettete Liste
+  * Termin 10 - Binärbaum
