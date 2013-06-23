@@ -30,4 +30,5 @@ public abstract class TreeNode {
 }
 ```
 __Grafische Darstellung:__
+
 ![](./binarytree.png)
