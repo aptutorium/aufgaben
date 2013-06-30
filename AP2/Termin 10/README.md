@@ -10,7 +10,7 @@ Es soll der im Vortrag gezeigte Binärbaum um die folgenden Methoden ergänzt we
 void preOrder()
 void postOrder()
 int nodeCount(TreeNode p)
-Node findNode(Node p, String key)
+TreeNode findNode(Node p, String key)
 ```
 __Zur Erinnerung:__
 
