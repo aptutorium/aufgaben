@@ -10,3 +10,4 @@
   * Termin 08 - Sortieralgorithmen
   * Termin 09 - Verkettete Liste
   * Termin 10 - Binärbaum
+  * Termin 11 - HashMap
