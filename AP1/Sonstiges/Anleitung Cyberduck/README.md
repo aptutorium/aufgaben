@@ -1,4 +1,4 @@
-# SFTP-Vervindung mit Cyberduck aufbauen
+# SFTP-Verbindung mit Cyberduck aufbauen
 Im Folgenden soll der Verbindungsaufbau zur `advm1` mit Hilfe der Software `Cyberduck` beschrieben werden. Darüber hinaus wird der Aufruf von `Putty` und `Sublime Text` aus einer geöffneten Cyberduck-Verbindung heraus gezeigt. **Die Abgabe der Praktikumsaufgaben soll aber bitte weiterhin mit der vorgeschriebenen Methode erfolgen!**
 
 **Benötigte Software:**
