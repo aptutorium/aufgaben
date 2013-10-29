@@ -17,3 +17,4 @@
 # PDF & Keynote Documents
 *.key
 *.pdf
+.DS_Store
