@@ -2,11 +2,11 @@
 
 int main()
 {
-	int alter;
+  int alter;
   float groesse;
 
-	printf("Bitte geben Sie Ihr Alter ein: ");
-	scanf("%i", &alter);
+  printf("Bitte geben Sie Ihr Alter ein: ");
+  scanf("%i", &alter);
 
   printf("Bitte geben Sie Ihre Koerpergroesse ein: ");
   scanf("%f", &groesse);
