@@ -13,5 +13,5 @@ int main()
 
   printf("Sie sind %i Jahre alt und %.2f m gross!\n", alter, groesse);
 
-	return 0;
+  return 0;
 }
