@@ -10,7 +10,7 @@ Der Quellcode von Aufgabe 1 soll so ergänzt werden, dass das Alter mit Hilfe de
 Nun soll zusätzlich zur bestehenden Ausgabe geprüft werden, ob bereits das 18 Lebensjahr erreicht wurde. Zudem ist zu begründen, welcher Datentyp sich für diese Aufgabe eignet. Könnten auch andere Datentypen diese Aufgabe erfüllen?
 
 ## Aufgabe 4
-Ist das 18 Lebensjah noch nicht erreicht, so sollen die verbleibenden Jahre bis zur Volljährigkeit berechnet und anschließend ausgegebn werden.
+Ist das 18 Lebensjahr noch nicht erreicht, so sollen die verbleibenden Jahre bis zur Volljährigkeit berechnet und anschließend ausgegebn werden.
 
 ## Zusatzaufgabe
 
