@@ -13,7 +13,7 @@ int main()
 		i++;
 	}
 
-	mittelwert = summe / 10;
+	mittelwert = summe / i;
 
 	printf ("\nDie Summe betraegt: %.2lf\n",summe);
 	printf ("Der Mittelwert betraegt: %.2lf \n\n",mittelwert);
