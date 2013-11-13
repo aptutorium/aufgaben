@@ -1,9 +1,10 @@
 # Termin 3
 
-## Aufgabe 1 - Weihnachtsprämie
+## Aufgabe 1 - Weihnachtsprämie (Praktikumsaufgabe)
 Eine Firma gewährt ihren Angestellten unter folgenden Bedingungen zu Weihnachten eine Prämie. Beträgt das Dienstalter (=Anzahl der Dienstjahre) weniger als ein Jahr, wird keine Prämie gegeben. Beträgt es mindestens ein Jahr aber weniger als sechs Jahre, besteht die Prämie aus 600 €. Ist der Mitarbeiter sechs oder mehr Jahre bei der Firma, bekommt er 250 € und dazu für jedes Dienstjahr 75 €. Ist er im letzteren Fall außerdem älter als 50 Jahre, so erhält er noch eine Zulage von 250 €.
 
 __Eingabe:__ Zuerst das Alter und anschließend das Dienstalter (ganze Jahre)
+
 __Hinweis:__ Verwenden Sie die if-Anweisung.
 
 ## Aufgabe 2 - Währungsrechner

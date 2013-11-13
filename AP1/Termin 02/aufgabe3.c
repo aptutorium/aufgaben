@@ -2,18 +2,16 @@
 
 int main()
 {
-	int alter;
+  int alter;
+  float groesse;
 
-	printf("Bitte geben Sie Ihr Alter ein: ");
-	scanf("%i", &alter);
+  printf("Bitte geben Sie Ihr Alter ein: ");
+  scanf("%i", &alter);
 
-  if (alter >= 18)
-  {
-    printf("Die Person ist mit %i Jahren bereits volljaehrig.\n", alter);
-  }
-  else {
-    printf("Die Person ist mit %i Jahren noch nicht volljaehrig!\n", alter);
-  }
+  printf("Bitte geben Sie Ihre Koerpergroesse ein: ");
+  scanf("%f", &groesse);
 
-	return 0;
+  printf("Sie sind %i Jahre alt und %.2f m gross!\n", alter, groesse);
+
+  return 0;
 }
