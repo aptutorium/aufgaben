@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+   
 int main()
 {
 	double einlage, zinssatz = 1.03;

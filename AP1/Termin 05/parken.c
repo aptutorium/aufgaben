@@ -7,9 +7,14 @@ int main(int argc, const char *argv[])
 	while(gebuehr != 0) {
 		printf("Bitte Werfen Sie eine Muenze ein: ");
 		scanf("%d", &einwurf);
-
+	
 			switch(einwurf) {
-				case 10: case 20: case 50: gebuehr -= einwurf; break;
+				case 10: case 20: case 50: 
+					if (einwurf > gebuehr){
+						printf("Ungueltige Eingabe!\n");
+					} else {
+						gebuehr -= einwurf;
+					} break;
 				case 1:
 				case 2:	if(einwurf * 100 > gebuehr)
 								printf("Ungueltige Eingabe!\n");
