@@ -15,10 +15,10 @@ __Es soll nun zu jeder Frage die passende printf-Anweisung geschrieben werden:__
 
   1. Welchen Wert hat zahl?
   2. Welche Adresse hat zahl?
-  4. Welchen Wert hat a?
-  5. Welchen Wert hat zahl unter Verwendung von a?
-  6. Welchen Wert hat zahl unter Verwendung von b?
-  7. Welchen Wert hat a unter Verwendung von b?
+  3. Welchen Wert hat a?
+  4. Welchen Wert hat zahl unter Verwendung von a?
+  5. Welchen Wert hat zahl unter Verwendung von b?
+  6. Welchen Wert hat a unter Verwendung von b?
 
 __Die korrekte Ausgabe lautet:__
 
