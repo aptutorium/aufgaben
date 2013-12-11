@@ -12,7 +12,6 @@ int main()
 
 	printf("\nDen Wert von zahl: %d", zahl);
 	printf("\nDie Adresse von zahl: %p", &zahl);
-	printf("\nAuf welchen Wert zeigt a: %d", *a);
 	printf("\nWelchen Wert hat a: %p", a);
 	printf("\nDen Wert von zahl unter der Verwendung von a: %d", *a);
 	printf("\nDen Wert von zahl unter der Verwendung von b: %d", **b);

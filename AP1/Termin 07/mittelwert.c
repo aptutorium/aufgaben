@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main( void )
+int main()
 {
 	int i=0, j;
 	double werte[6], zahl, summe, mittelwert;

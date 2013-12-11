@@ -15,7 +15,6 @@ __Es soll nun zu jeder Frage die passende printf-Anweisung geschrieben werden:__
 
   1. Welchen Wert hat zahl?
   2. Welche Adresse hat zahl?
-  3. Auf welchen Wert zeigt a?
   4. Welchen Wert hat a?
   5. Welchen Wert hat zahl unter Verwendung von a?
   6. Welchen Wert hat zahl unter Verwendung von b?
@@ -25,7 +24,6 @@ __Die korrekte Ausgabe lautet:__
 
     Den Wert von zahl: 10
     Die Adresse von zahl: 0x7fff6ce77734
-    Auf welchen Wert zeigt a: 10
     Welchen Wert hat a: 0x7fff6ce77734
     Den Wert von zahl unter der Verwendung von a: 10
     Den Wert von zahl unter der Verwendung von b: 10
