@@ -16,15 +16,15 @@ Später soll die Klasse so erweitert werden, dass beliebig viele Personen in das
 Die fertige Klasse `Person` sollte folgende Methoden aufweisen:
 
 ```java
-    int getAlter()
-    int setAlter()
+int getAlter()
+int setAlter()
 ```
 
 Die fertige Klasse `Haus` sollte folgende Methoden aufweisen:
 
 ```java
-    double getFlaeche() // Berechnet die Fläche des Hauses
-    void setPersonen(Person[] person) // Lässt Personen in das Haus einziehen
+double getFlaeche() // Berechnet die Fläche des Hauses
+void setPersonen(Person[] person) // Lässt Personen in das Haus einziehen
 ```
 
 __Zusatzaufgabe:__
