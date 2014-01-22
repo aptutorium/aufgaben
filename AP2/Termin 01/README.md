@@ -32,7 +32,7 @@ __Zusatzaufgabe:__
 Schreiben sie eine Methode, die die älteste Person im Haushalt berechnet.
 
 ```java
-    Person getAeltestePerson() // Gibt die älteste Person des Haushalts zurück
+Person getAeltestePerson() // Gibt die älteste Person des Haushalts zurück
 ```
 
 In welcher Klasse sollte diese Methode sinnvollerweise implementiert werden?
