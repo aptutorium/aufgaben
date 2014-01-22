@@ -18,3 +18,4 @@
 *.key
 *.pdf
 .DS_Store
+*.class
