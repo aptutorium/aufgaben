@@ -3,10 +3,10 @@
 int main( void )
 {
 
-  const int size = 5;
+  const unsigned int size = 5;
   int i;
   int input = 0;
-  int values[5];
+  int values[size];
 
   // einlesen der zahlen
   for (i = 0; i < size; ++i)

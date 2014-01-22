@@ -24,7 +24,7 @@ int main()
 			reverse(word, countchar(word));
 			break;
 		default:
-			printf("Ungültige Auswahl!");
+			printf("Ungueltige Auswahl!");
 	}
 
 	return 0;
