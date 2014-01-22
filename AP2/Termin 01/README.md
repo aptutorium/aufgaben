@@ -15,20 +15,25 @@ Später soll die Klasse so erweitert werden, dass beliebig viele Personen in das
 
 Die fertige Klasse `Person` sollte folgende Methoden aufweisen:
 
+```java
     int getAlter()
     int setAlter()
+```
 
 Die fertige Klasse `Haus` sollte folgende Methoden aufweisen:
 
+```java
     double getFlaeche() // Berechnet die Fläche des Hauses
     void setPersonen(Person[] person) // Lässt Personen in das Haus einziehen
-
+```
 
 __Zusatzaufgabe:__
 
 Schreiben sie eine Methode, die die älteste Person im Haushalt berechnet.
 
+```java
     Person getAeltestePerson() // Gibt die älteste Person des Haushalts zurück
+```
 
 In welcher Klasse sollte diese Methode sinnvollerweise implementiert werden?
 
