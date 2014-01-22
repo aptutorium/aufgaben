@@ -1,21 +1,21 @@
 class StringStack {
 
-  private String[] a = new String[20];
+  private String[] items;
+  private int size = 0;
 
-  private int top = 0;
-
-  public void push(String x)
-  {
-    a[top++] = x;
+  public StringStack(final int stackSize) {
+    items = new String[stackSize];
   }
 
-  public String pop()
-  {
-    return a[--top];
+  public void push(String x) {
+    items[size++] = x;
   }
 
-  public boolean isEmpty()
-  {
-    return top == 0;
+  public String pop() {
+    return items[--size];
+  }
+
+  public boolean isEmpty() {
+    return size == 0;
   }
 }

@@ -7,7 +7,9 @@ Schreiben Sie eine Klasse 'StringStack', welche einen Kellerspeicher für String
 
 __Die Klasse soll folgende Methoden aufweisen:__
 
-1. public void push(String x)
-2. public String pop()
-3. public boolean isEmpty()
+```java
+public void push(String x)
+public String pop()
+public boolean isEmpty()
+```
 
