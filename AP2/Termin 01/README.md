@@ -17,7 +17,7 @@ Die fertige Klasse `Person` sollte folgende Methoden aufweisen:
 
 ```java
 int getAlter()
-int setAlter()
+void setAlter(int alter)
 ```
 
 Die fertige Klasse `Haus` sollte folgende Methoden aufweisen:
