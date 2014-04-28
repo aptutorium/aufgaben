@@ -4,7 +4,7 @@
 
 ### Aufgabe 1
 Der folgende Quellcode ist stellenweise fehlerhaft. Es sollen alle Fehler gefunden und fachlich korrekt begründet werden.
-
+```java
     public static void main(String[] args) 
     {
       Hund schaeferhund = new Hund(true, "Rex"); 
@@ -30,7 +30,7 @@ Der folgende Quellcode ist stellenweise fehlerhaft. Es sollen alle Fehler gefund
         einVogel.flieg();
       } 
     }
-
+```
 ### Aufgabe 2
 Betrachten Sie folgende Klassenhierarchie und die bereits implementierte Klasse `Arzt`. Ergänzen Sie die noch fehlende Implementation von `Chirurg` und `Hausarzt`.
 
