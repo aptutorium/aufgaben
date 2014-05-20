@@ -18,18 +18,18 @@ public class Main {
 		Vogel gleicherVogel = new Vogel(2, "Tweety");
 		
 		if (einVogel.compareTo(gleicherVogel) == 0) {
-			System.out.println("Die Všgel sind gleich alt!");
+			System.out.println("Die Voegel sind gleich alt!");
 		}
 		
 		if (einVogel.compareTo(einHund) == -1) {
-			System.out.println("Der Hund ist Šlter");
+			System.out.println("Der Hund ist aelter");
 		}
 		
 		// Aufgabe 3
 		System.out.println("=============================================");
 		
 		if (einVogel.equals(gleicherVogel)) {
-			System.out.println("Die Všgel haben das gleiche Alter und den gleichen Namen");
+			System.out.println("Die Voegel haben das gleiche Alter und den gleichen Namen");
 		}
 		
 		if (!einHund.equals(einMensch)) {
@@ -37,7 +37,7 @@ public class Main {
 		}
 		
 		if (!einHund.equals(null)) {
-			System.out.println("Ein Vergleich mit null sollte auch mšglich sein!");
+			System.out.println("Ein Vergleich mit null sollte auch moeglich sein!");
 		}
 	}
 
