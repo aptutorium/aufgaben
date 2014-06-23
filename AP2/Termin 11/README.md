@@ -9,7 +9,7 @@ Für die im Vortrag gezeigte HashMap sollen die folgenden Methoden geschrieben w
 ```java
 public Entry findEntry(String key)
 public boolean contains(String key)
-public void put(String key, Ojbect value)
+public void put(String key, Object value)
 ```
 __Hilfestellung für die Methode put(...):__
 
