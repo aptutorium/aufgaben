@@ -14,7 +14,7 @@ public void put(String key, Object value)
 __Hilfestellung für die Methode put(...):__
 
 ```java
-public void put(String key, Ojbect value) {
+public void put(String key, Object value) {
   1. Position im Array bestimmen -> hashCode
   2. Solange verschieben bis:
     2.1. Das Feld leer ist -> Neuen Entry anlegen
